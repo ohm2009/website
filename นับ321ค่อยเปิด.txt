@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy 4-Month Anniversary</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ffeef3;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+        }
+        .header {
+            font-size: 2.5em;
+            color: #ff6699;
+            margin: 20px 0;
+        }
+        .images {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .images img {
+            border-radius: 15px;
+            max-width: 300px;
+            height: auto;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .message {
+            margin-top: 20px;
+            font-size: 1.2em;
+            line-height: 1.6;
+            color: #444;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 1em;
+            color: #777;
+        }
+        .heart {
+            color: #ff6699;
+            font-size: 1.5em;
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.2);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">Happy 4-Month Anniversary, แก้ม! 💕</div>
+
+        <div class="images">
+            <img src="/mnt/data/S__4046862.jpg" alt="แก้ม">
+            <img src="/mnt/data/S__4046859.jpg" alt="แก้ม">
+        </div>
+
+        <div class="message">
+            <p>
+                ถึงแก้มอ้วนนนน ❤️<br>
+                วันนี้เราคบกันมาครบ 4 เดือนแย้วววว! ทุกช่วงเวลาที่เราได้อยู่ด้วยกัน
+                มันเหมือนฝันที่เค้าไม่อยากตื่นเลยย แก้มคือความสุขของเค้าา
+
+            คือรอยยิ้มและกำลังใจ
+                ที่ทำให้ทุกวันของผมเต็มไปด้วยความหมายมั้กก <span class="heart">💖</span>
+            </p>
+            <p>
+                ขอบคุณสำหรับทุกอย่างนะะ ทั้งความรัก ความห่วงใย และความเข้าใจที่แก้มมอบให้
+                เค้าสัญญาว่าจะดูแลแก้มให้ดีที่สุด และจะรักแก้มมากขึ้นทุกวัน 💕
+            </p>
+            <p>รักแก้มมากที่สุดในโลกนี้เลยนะะะ, จากใจของโอ้มมม</p>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2024, With Love From Me to You</p>
+        </div>
+    </div>
+</body>
+</html>
